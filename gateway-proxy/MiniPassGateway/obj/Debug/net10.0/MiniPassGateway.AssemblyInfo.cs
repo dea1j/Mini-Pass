@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniPassGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+458c9466c6d026263f5e03990251e897bb98910e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniPassGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniPassGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -30,3 +30,6 @@
 /Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/obj/Debug/net10.0/MiniPassGateway.pdb
 /Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/obj/Debug/net10.0/MiniPassGateway.genruntimeconfig.cache
 /Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/obj/Debug/net10.0/ref/MiniPassGateway.dll
+/Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/obj/Debug/net10.0/MiniPassGateway.sourcelink.json
+/Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/bin/Debug/net10.0/Pipelines.Sockets.Unofficial.dll
+/Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/bin/Debug/net10.0/StackExchange.Redis.dll

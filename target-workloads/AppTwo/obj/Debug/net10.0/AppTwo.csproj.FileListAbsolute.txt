@@ -26,3 +26,4 @@
 /Users/mac/Documents/mini-pass/target-workloads/AppTwo/obj/Debug/net10.0/AppTwo.pdb
 /Users/mac/Documents/mini-pass/target-workloads/AppTwo/obj/Debug/net10.0/AppTwo.genruntimeconfig.cache
 /Users/mac/Documents/mini-pass/target-workloads/AppTwo/obj/Debug/net10.0/ref/AppTwo.dll
+/Users/mac/Documents/mini-pass/target-workloads/AppTwo/obj/Debug/net10.0/AppTwo.sourcelink.json

@@ -26,3 +26,4 @@
 /Users/mac/Documents/mini-pass/target-workloads/AppOne/obj/Debug/net10.0/AppOne.pdb
 /Users/mac/Documents/mini-pass/target-workloads/AppOne/obj/Debug/net10.0/AppOne.genruntimeconfig.cache
 /Users/mac/Documents/mini-pass/target-workloads/AppOne/obj/Debug/net10.0/ref/AppOne.dll
+/Users/mac/Documents/mini-pass/target-workloads/AppOne/obj/Debug/net10.0/AppOne.sourcelink.json
