@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/bfEiY1oos=",
+  "success": true,
+  "projectFilePath": "/Users/mac/Documents/mini-pass/gateway-proxy/MiniPassGateway/MiniPassGateway.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/yarp.reverseproxy/2.3.0/yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
