@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app-one-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: app-one
+
+  template:
+    metadata:
+      labels:
+        app: app-one
+    spec:
+      containers:
+      - name: app-one-container
+        image: minipaas-app-one:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 8080

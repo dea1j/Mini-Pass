@@ -11,7 +11,7 @@ public class RedisProxyConfigProvider : IProxyConfigProvider
 
     public RedisProxyConfigProvider()
     {
-        _redis = ConnectionMultiplexer.Connect("localhost:6379");
+        _redis = ConnectionMultiplexer.Connect("redis-service:6379");
         LoadConfigFromRedis();
         var subscriber = _redis.GetSubscriber();
         subscriber.Subscribe("minipaas-updates", (channel, message) =>
@@ -33,7 +33,7 @@ public class RedisProxyConfigProvider : IProxyConfigProvider
     private void LoadConfigFromRedis()
     {
         var db = _redis.GetDatabase();
-        var server = _redis.GetServer("localhost:6379");
+        var server = _redis.GetServer("redis-service:6379");
 
         var routes = new List<RouteConfig>();
         var clusters = new List<ClusterConfig>();
