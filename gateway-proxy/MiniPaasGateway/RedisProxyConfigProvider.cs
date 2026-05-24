@@ -2,7 +2,7 @@ using Microsoft.Extensions.Primitives;
 using StackExchange.Redis;
 using Yarp.ReverseProxy.Configuration;
 
-namespace MiniPassGateway;
+namespace MiniPaasGateway;
 
 public class RedisProxyConfigProvider : IProxyConfigProvider
 {

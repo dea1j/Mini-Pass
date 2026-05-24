@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Yarp.ReverseProxy.Configuration;
-using MiniPassGateway;
+using MiniPaasGateway;
 
 var builder = WebApplication.CreateBuilder(args);
 
